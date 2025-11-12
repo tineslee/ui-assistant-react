@@ -30,7 +30,7 @@ Este projeto explora **UX/UI** e **IA local**, sem necessidade de backend.
 ## Instalação
 
 ```bash
-git clone https://github.com/tineslee/ui-assistant-react.git
+git clone https://github.com/seu-usuario/ui-assistant-react.git
 cd ui-assistant-react
 npm install
 npm start
