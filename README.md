@@ -1,4 +1,4 @@
-# UI Assistant Clean
+# UI Assistant React
 
 Um chatbox em **React** com integração de **Transformers.js** para rodar modelos de IA direto no navegador.  
 Este projeto foi criado para explorar **UX/UI** e **IA local**, sem necessidade de backend.
@@ -26,5 +26,5 @@ Este projeto foi criado para explorar **UX/UI** e **IA local**, sem necessidade 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/tineslee/ui-assistant-clean.git
+git clone https://github.com/tineslee/ui-assistant-react.git
 cd ui-assistant-clean
